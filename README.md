@@ -32,7 +32,8 @@ Recent highlights:
 - **Banking App Frontend:** Full-stack development project to deepen understanding of database design and architecture
 
 🚀 **Let’s Connect!**
-- 💼 LinkedIn: [linkedin.com/in/riveradaniel341](https://www.linkedin.com/in/riveradaniel341/)
+- 🔗 LinkedIn: [linkedin.com/in/riveradaniel341](https://www.linkedin.com/in/riveradaniel341/)
+- 💼 Portfolio: [https://drivera341.github.io/Portfolio/](https://drivera341.github.io/Portfolio/)
 - ☕️ Buymeacoffee: [Buymeacoffee.com/riveradaniel341](https://buymeacoffee.com/riveradaniel341)
 
 ---
