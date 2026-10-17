@@ -6,6 +6,11 @@
 
 💻 **Full-Stack Developer & Software Engineer**
 
+🔬 **AI Safety & Security**
+- **Research:** [What the Tests Don't See](https://github.com/Drivera341/swebench-security-audit). A static audit of 6,000 agent-generated patches on SWE-bench Verified ([paper](https://drivera341.github.io/swebench-security-audit/paper.pdf) · [project page](https://drivera341.github.io/swebench-security-audit/))
+- **CTF:** US Cyber Challenge East Coast Cyber Camp 2026. Top scorer on an 11th-place team and 12th individually, after qualifying through Cyber Quests Spring 2026
+- **More:** [AI Safety & Security page](https://drivera341.github.io/Portfolio/security.html)
+
 Recent highlights:
 - **AI-Powered RAG Architecture:** Built a Retrieval-Augmented Generation system for the Catechetical Review using Claude Code through AWS Bedrock, with secure optimizations and Magisterium API integration
 - **Cloud Deployment & DevOps:** Deployed scalable prototypes using Railway.app with databases, algorithms, and modern infrastructure
