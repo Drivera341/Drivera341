@@ -7,7 +7,7 @@
 💻 **Full-Stack Developer & Software Engineer**
 
 🔬 **AI Safety & Security**
-- **Research:** [What the Tests Don't See](https://github.com/Drivera341/swebench-security-audit). A static audit of 6,000 agent-generated patches on SWE-bench Verified ([paper](https://drivera341.github.io/swebench-security-audit/paper.pdf) · [project page](https://drivera341.github.io/swebench-security-audit/))
+- **Independent research:** [What the Tests Don't See](https://github.com/Drivera341/swebench-security-audit). A static audit of 6,000 agent-generated patches on SWE-bench Verified ([paper](https://drivera341.github.io/swebench-security-audit/paper.pdf) · [project page](https://drivera341.github.io/swebench-security-audit/))
 - **CTF:** US Cyber Challenge East Coast Cyber Camp 2026. Top scorer on an 11th-place team and 12th individually, after qualifying through Cyber Quests Spring 2026
 - **More:** [AI Safety & Security page](https://drivera341.github.io/Portfolio/security.html)
 
